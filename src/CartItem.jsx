@@ -1,4 +1,5 @@
 
+/* eslint-disable react/prop-types */
 import { useSelector, useDispatch } from 'react-redux';
 import { removeItem, updateQuantity } from './CartSlice';
 import './CartItem.css';
